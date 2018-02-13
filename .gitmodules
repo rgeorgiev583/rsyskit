@@ -1,0 +1,6 @@
+[submodule "rsyskitd"]
+	path = rsyskitd
+	url = https://github.com/rgeorgiev583/rsyskitd
+[submodule "rsyskitctl"]
+	path = rsyskitctl
+	url = https://github.com/rgeorgiev583/rsyskitctl
